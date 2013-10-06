@@ -37,6 +37,6 @@ rake preview # after this, access http://localhost:4000 to view your blog
 rake deploy
 
 ``` 
-**Notice:** This plugin is worked fine on my theme(based on bootstrap), maybe you need adjust some class value or other code on your own theme. You can just reference this code.
+**Notice:** This plugin is worked fine on my theme(based on bootstrap), maybe you need adjust some class value or other code on your own theme.
 
 
